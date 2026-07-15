@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 💰 Cash Flow Minimizer System
 
 ### A Graph-Based Expense Settlement System Built with Java
